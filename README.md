@@ -1,8 +1,12 @@
 # Olá, eu sou o Luis Henrique 👋
 
-**Desenvolvedor Java/Spring · Python & Ciência de Dados**
+**Desenvolvedor Java/Spring · Python & Ciência de Dados · Indústria 4.0**
 
-Desenvolvo backends em **Java com Spring Boot** e analiso dados com **Python**: das APIs e da arquitetura de microsserviços até a exploração de dados, a estatística e os modelos de Machine Learning.
+Desenvolvo sistemas completos, de ponta a ponta: da coleta de dados por telemetria à arquitetura, ao backend em **Java com Spring Boot**, ao tratamento e à análise dos dados com **Python** e à interface web.
+
+```
+Coleta (telemetria) ──► Mensageria ──► Backend Java/Spring ──► Banco de dados ──► Ciência de dados (Python) ──► Interface web
+```
 
 ---
 
@@ -21,9 +25,10 @@ Desenvolvo backends em **Java com Spring Boot** e analiso dados com **Python**: 
 - Machine Learning com scikit-learn, do preparo dos dados à avaliação dos modelos
 - SQL analítico e dados de séries temporais
 
-**⚙️ Integração de sistemas**
-- Dashboards web em Angular consumindo APIs em tempo real
-- Integração de dados de campo (CLPs, SCADA e sensores) com backend e bancos de dados
+**🏭 Indústria 4.0 e telemetria**
+- Coleta de dados de campo (sensores, CLPs e SCADA) via MQTT, Modbus e S7
+- Armazenamento de séries temporais com InfluxDB e tratamento dos dados para análise
+- Interfaces web em Angular com monitoramento em tempo real, histórico e indicadores
 
 ---
 
